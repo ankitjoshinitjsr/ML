@@ -20,3 +20,10 @@ Now, In my dataset i have data of 50 startups whose profit depends on many facto
 As an investor in which section i should invest to get maximum profit.
 
 /******************************************************************/
+
+              Machine Learning - Logistic regression
+              
+Theory :- https://medium.com/data-science-group-iitr/logistic-regression-simplified-9b4efe801389
+Through the dataset Social_Network_Ads we need to find out whether a a person would buy a SUV or not.
+
+/**************************************************************************************************/
